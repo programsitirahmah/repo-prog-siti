@@ -1,2 +1,3 @@
 # repo-prog-siti
 Repository untuk menyimpan pemograman kedepannya
+-pada pemograman pertama belajar mendaftarkan akin di github
