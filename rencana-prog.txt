@@ -2,5 +2,7 @@ Rencana Program Baru
 -membuat program sesuai rps
 *program pembelajaran yang ditugaskan saat ini adalah penggunaan github
 *pemograman kelompok
+  ~pemograman java script
+  ~python
 -menyelesaikan semua laporan 
 -mengimplementasikan apa yang sudah di praktikkan
