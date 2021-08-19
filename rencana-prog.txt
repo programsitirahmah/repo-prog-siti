@@ -5,4 +5,5 @@ Rencana Program Baru
   ~pemograman java script
   ~python
 -menyelesaikan semua laporan 
+ ~laporan 1 materi github
 -mengimplementasikan apa yang sudah di praktikkan
