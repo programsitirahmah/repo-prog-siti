@@ -1,3 +1,4 @@
 Rencana Program Baru
 -membuat program sesuai rps
+*program pembelajaran yang ditugaskan saat ini adalah penggunaan github
 -menyelesaikan semua laporan 
